@@ -1,0 +1,4 @@
+﻿  test.c
+D:\c#\c语言练习\test.c(165,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c#\c语言练习\test.c(181,37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  c语言练习.vcxproj -> D:\c#\c语言练习\x64\Debug\c语言练习.exe
